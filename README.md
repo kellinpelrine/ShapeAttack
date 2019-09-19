@@ -1,6 +1,6 @@
 # ShapeAttack
 
-Author: Kellin Pelrine
+Author: Kellin Pelrine. Code for RBC model modified from code provided by Fabrizio Zilibotti.
 
 This is an algorithm to produce adversarial examples satisfying a shape constraint, e.g. an adversarial monotonic function.
 
