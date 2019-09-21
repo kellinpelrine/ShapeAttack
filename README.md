@@ -15,4 +15,5 @@ This is illustrated by the following figure. Perturbing the utility function in 
 
 ![image](https://github.com/kellinpelrine/ShapeAttack/blob/master/Utility_Perturbation.JPG)
 
-More information is contained in the report.
+<br/><br/>
+The main file of interest here is main_cluster. At the top of the file, parpool(4) should be set to the desired number of CPU cores to run on. The program will then run the genetic algorithm to find a perturbation of the utility function like the above. More information, including other tests and explanations of the other files, is contained in the report.
